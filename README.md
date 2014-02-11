@@ -6,6 +6,6 @@ http://3v4l.org/ is useful if you need quick access to PHP.
 
 Have fun!
 
-- The @BaseEngineers / engineers@wearebase.com
+- The [@BaseEngineers](https://twitter.com/BaseEngineers) / engineers@wearebase.com
 
 PS. Get in touch if you think you did OK - we're [looking](http://wearebase.com/hiring) for PHP developers.
