@@ -1,7 +1,7 @@
 <?php
 
 /*
-Challenge 1: Modify Test::$secret before it's output.
+Challenge 1: Read and write to Test::$secret before it's output.
 
 Rules::
 1. No use of Reflection API / runkit extension
