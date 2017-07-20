@@ -12,7 +12,7 @@ Rules::
 Hints:
 1. Caesar
 2. Magic methods
-3. Requires a new feature of PHP 5.4
+3. Requires something that became available in PHP 5.4
 
 */
 
