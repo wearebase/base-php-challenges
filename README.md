@@ -10,4 +10,4 @@ Have fun!
 
 - The [@BaseEngineers](https://twitter.com/BaseEngineers) / engineers@wearebase.com
 
-PS. Get in touch if you think you did OK - we're [looking](http://wearebase.com/hiring) for PHP developers.
+PS. Get in touch if you think you did OK - we are often [hiring](https://apply.workable.com/passengerteam/) for PHP developers.
